@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "title": "The Future of Scheduling is Here.",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "We noticed that it's painful and slow work to enter things manually into a calendar. However, without one, it's just as hard to not forget your commitments. That's why we at NoCalendar have devised a way for your scheduling to be fully automated. Never look at a calendar again, and still get where you need to be.",
+    "Why": [
+      "No more forgetting to enter an event into your calendar",
+      "Friends can't be annoying by asking you to schedule their gcal",
+      "Easily find times in common to schedule events"
+    ],
+    "Why2": [
+      "No need to manually check a calendar",
+      "No more struggling to choose all the specific dates an event occurs",
+      "More than a calendar: NoCalendar your habits to know when you're busy and working even when it's not on your calendar"
+    ]
+  },
+
+
+  "Team": [
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Milo Clark",
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Arjun Puri",
+      "job": "Co-Founder"
+    }
+  ],
+  "Contact": {
+    "address": "26 Plympton St, Cambridge, MA 02138 ",
+    "phone": "+1 901 734 1838",
+    "email": "pegasuslaboratories@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Schedule Directly from Conversations",
+      "text": "NoCalendar uses state-of-the-art natural language processing to find events in your e-mail and messages and automatically suggests and schedules them for you. Gone are the days of manually entering events into a calendar!"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Magically Schedule with Text",
+      "text": "Got an event not in an e-mail or message? No problem. Simply describe your event to NoCalendar in English, and it will automatically schedule for you. Instead of manually entering in your classes on your calendar, just say \"I have class Tuesdays and Thursdays from 11 AM to Noon from August 31 to December 13.\""
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "Automatically Find Timings",
+      "text": "NoCalendar uses artificial intelligence and learns when you are busy, even when an event is not on your calendar, as well as when the people you need to meet with are. The next time a friend or colleauge asks to meet, NoCalendar recognizes that message, checks both of your availabilities, and suggests a time for both of you to meet. No more hassle of checking a calendar!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Get Notified",
+      "text": "NoCalendar quickly notifies you of your upcoming events. No need to manually check a calendar."
+    }
+  ]
+}
