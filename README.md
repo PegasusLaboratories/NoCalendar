@@ -2,7 +2,8 @@
 Initial commit for NoCalendar WaitList / Landing Page
 
 
-To run:
+To run enter the following in your command line:
+
 yarn
 
 yarn start 
